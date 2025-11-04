@@ -1,0 +1,9 @@
+{
+  "name": "hacker-portfolio",
+  "version": "1.0.0",
+  "description": "Hacker-style portfolio website with Telegram integration",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'No build step required for static site'"
+  }
+}
